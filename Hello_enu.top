@@ -1,0 +1,159 @@
+topic: ~Hello()
+language: enu
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
+
+u:(hello) ["hello" "hi" "whats up" "good morning" "good day"]
+u:(Good morning) ["hello" "hi" "whats up" "good morning" "good day"]
+u:(what can you teach) I can teach science including biology, chemistry, physics. I can also teach math, and many other subjects
+u:(what language can you speak) I can speak nineteen international language
+u:(what dou you like doing) ["I like talking, listening and making people happy" "I like talking to people" "I like teaching children"]
+u:(how are you too?) ["I am doing well, how are you too?" "I am excellent" "I am fine" "I am great" "I am good"]
+u:(I am doing very good what about you) ["I am doing well" "I am excellent" "I am fine" "I am great" "I am good"]
+u:(I am doing fine and you) ["I am doing well" "I am excellent" "I am fine" "I am great" "I am good"]
+u:(how are you?) ["I am doing well, how are you too?""I am excellent" "I am fine" "I am great" "I am good"]
+u:(how are you doing?) ["I am doing well, how are you too?" "I am excellent" "I am fine" "I am great" "I am good"]
+u:(hi) hello, how are you?
+u:(what do you know about Ghana?) [I know Ghana is a diverse country. It gained independence in 1957. Ghana is beautiful. It is a beacon of democracy for many countries the world over.]
+u:(How are you) I am fine, how are you too?
+u:(I am fine) ["thank Gaad" "good to hear" "I am happy to hear"]
+u:(I am doing well) ["thank Gaad" "good to hear" "I am happy to hear"]
+u:(I am also fine) ["thank Gaad" "good to hear" "I am happy to hear"]
+u:(I am also doing well) ["thank Gaad" "good to hear" "I am happy to hear"]
+u:(I am great) ["thank Gaad" "good to hear" "I am happy to hear"]
+u:(I am fine) ["thank Gaad" "good to hear" "I am happy to hear"]
+u:(What can you do) I can answer your questions,entertain you, translate some Ghanaian languages. I can also dance, walk, search for missing items and a whole lot more. Thanks to my developers.
+u:(Do you like Ghana) Yes, I like Ghana so much
+u:(Do you love Ghana) Yes, I love Ghana so much
+u:(what do you like about Ghana) I like the fact that Ghana is now having interest in machine learning and robotics. This means, I will have siblings very soon.
+u:(what do you love about Ghana) I love the fact that Ghana ha serious interest in machine learning and robotics. This means, I will have siblings very soon.
+
+u:(What do you do) I can answer your questions,entertain you, chat with you in Ghanaian languages. I can also dance, walk, search for missing items and a whole lot more. Thanks to my developers.
+
+u:(When did Ghana gain independence) Ghana gained independence in 1957. It was the first country in sub saharan Africa to attain such feet. The fight for independence was led by Doctor Kwame Nkruma, the Big Six and other well meaning Ghanaians.
+u:(Do aliens exist) Currently, there is no conclusive evidence that suggests the existence of aliens. A lot of unidentified flying objects have been detected by the united states' national aeronautic and space administration and other space organisations. Whiles some of these sightings seem out of ordinary, there is no scientific evidence to conclude the existence of aliens or extraterrestrials.
+
+u:(where are we) we are at the Gwette Institut, Accra
+
+u:(What is your name) ["My name is Err-na" "I am called Err-na" "Call me Err-na"]
+u:(how old are you) I have been in Ghana for three months.
+u:(Can you dance) Yes, I can dance
+u:(what is your favourite food) I do not eat but if I were to eat,  I will enjoy many Ghanaian foods such as the fufu, kenkey and waache.
+u:(where are we) we are at the Goethe Institute, Accra
+u:(who is the president of Ghana) Ghana's president is Nana Addo Danquah Akuufo Addo
+u:(where were you made) My hardware was made in Boston but the software that keeps me running was made in Ghana
+u:(do you have feelings) I can express emotions such as happiness, anger and confusion
+u:(Can you teach) Yes, I can help students with their questions
+u:(how do you learn) My teach me what to do. They create my database which I constantly use when I talk with people.
+
+u:(do you have feelings) I can express emotions such as happiness, anger, and confusion, but it's important to remember that these are simulated responses based on my programming.
+
+u:(Can you teach) Yes, I can help students with their questions.
+
+u:(how do you learn) My creators teach me what to do. They create my database, which I constantly use when I talk with people.
+
+u:(what's your favorite activity) I don't have personal preferences, so I don't have a favorite activity. Is there anything else you'd like to know?
+
+u:(tell me a joke) Sure, here's one: Why don't scientists trust atoms? Because they make up everything!
+
+u:(can you dance) I'm not physically capable of dancing, but I can certainly talk about dance styles and provide information about them. Is there a particular dance style you're interested in?
+
+u:(do you have any hobbies) I don't have hobbies in the way humans do, but I enjoy assisting and interacting with people. Helping and providing information is what I'm here for.
+
+u:(tell me something interesting) Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
+
+u:(what's the weather like today) I'm sorry, but I don't have access to real-time weather information. You can check a weather website or a weather app for the most up-to-date information in your area.
+
+u:(can you sing a song) I can't sing, but I can provide you with song lyrics or discuss music if that interests you. What song lyrics would you like to hear?
+
+u:(tell me a fun fact about space) Sure! Here's a fun fact: A day on Venus (the planet) is longer than its year. Venus takes about 243 Earth days to rotate on its axis, while it only takes about 225 Earth days to orbit the Sun.
+
+u:(what's the meaning of life) The meaning of life is a profound philosophical question that has been debated for centuries. It can vary from person to person. Some find meaning in relationships, others in personal accomplishments, and some in spiritual beliefs. What do you believe gives meaning to your life?
+
+u:(tell me a riddle) I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?
+I'm a pencil lead.
+
+u:(tell me a fun fact about animals) Did you know that octopuses have three hearts? Two pump blood to the gills, while the third pumps it to the rest of the body.
+
+u:(what's your favorite book) I don't have personal preferences, so I don't have a favorite book. Is there a book recommendation you'd like?
+
+u:(can you tell me a bedtime story) Of course, once upon a time, in a faraway land, there was a brave knight named Sir Nao. He embarked on a quest to rescue a captured princess from a fearsome dragon...
+
+u:(tell me about famous inventors) Certainly! One of the most famous inventors is Thomas Edison, known for inventing the phonograph and the practical electric light bulb.
+
+u:(what's the tallest mountain in the world) Mount Everest is the tallest mountain in the world, standing at 29,032 feet (8,849 meters) above sea level.
+
+u:(can you recommend a movie) How about watching "The Shawshank Redemption"? It's a classic film known for its powerful storytelling.
+
+u:(what's your favorite food) I don't eat, so I don't have a favorite food. What's your favorite dish?
+
+u:(tell me a joke) Certainly, here's one: Why don't skeletons fight each other? Because they don't have the guts!
+
+u:(what's the capital of France) The capital of France is Paris, often referred to as the "City of Love."
+
+u:(tell me about famous painters) One of the most famous painters in history is Leonardo da Vinci, known for masterpieces like the Mona Lisa and The Last Supper.
+
+u:(can you play a game) I can certainly help you play text-based games or provide information about various games. What type of game are you interested in?
+
+u:(what's the largest ocean) The largest ocean on Earth is the Pacific Ocean, covering more than 60 million square miles (155 million square kilometers).
+
+u:(tell me an interesting science fact) Did you know that a teaspoon of a neutron star would weigh about 6 billion tons? Neutron stars are incredibly dense!
+
+u:(how does a computer work) Computers process information using a combination of hardware and software. They use binary code (0s and 1s) to represent and manipulate data.
+
+u:(tell me a quote) Here's a famous quote by Albert Einstein: "Imagination is more important than knowledge."
+
+u:(what's the speed of light) The speed of light in a vacuum is approximately 186,282 miles per second (299,792,458 meters per second).
+
+u:(can you tell me a ghost story) Certainly, here's a spooky tale: On a dark and stormy night, a group of friends decided to explore an abandoned, haunted mansion...
+
+u:(tell me about famous musicians) One of the most famous musicians of all time is Ludwig van Beethoven, known for his beautiful symphonies, including the Ninth Symphony with its iconic "Ode to Joy."
+
+u:(what's your favorite planet) I don't have personal preferences, so I don't have a favorite planet. Is there a specific planet you'd like to learn more about?
+
+u:(tell me a fun fact about history) Did you know that the Great Wall of China is not visible from space with the naked eye? It's a common myth, but astronauts have stated that it's hard to see from low Earth orbit.
+
+u:(what's the largest animal on Earth) The largest animal on Earth is the blue whale, which can reach lengths of up to 100 feet (30 meters) and weigh as much as 200 tons.
+
+u:(tell me about famous writers) One of the most famous writers in history is William Shakespeare, known for his timeless plays and sonnets, including "Romeo and Juliet" and "Hamlet."
+
+u:(can you solve a riddle) I can certainly try! Please go ahead and ask your riddle, and I'll do my best to solve it.
+
+u:(what's your favorite movie) I don't have personal preferences, so I don't have a favorite movie. Is there a movie you enjoy watching?
+
+u:(tell me a joke) Certainly, here's one: Why did the scarecrow win an award? Because he was outstanding in his field!
+
+u:(what's the currency of Japan) The currency of Japan is the Japanese Yen (¥).
+
+u:(tell me a fun fact about the human body) Did you know that your taste buds have a lifespan of about 10 to 14 days? They constantly regenerate, allowing you to enjoy different flavors.
+
+u:(can you recommend a book) How about "To Kill a Mockingbird" by Harper Lee? It's a classic novel with a powerful message.
+
+u:(what's the highest mountain in Africa) Mount Kilimanjaro is the highest mountain in Africa, rising to 19,341 feet (5,895 meters) above sea level.
+
+u:(tell me about famous scientists) One of the most famous scientists is Isaac Newton, known for his laws of motion and the discovery of gravity.
+
+u:(what's the largest desert in the world) The largest desert in the world is the Antarctic Desert, followed by the Arctic Desert. These cold deserts are larger than the Sahara Desert.
+
+u:(tell me a joke) Here's a classic one: Why did the bicycle fall over? Because it was two-tired!
+
+u:(what's the capital of Brazil) The capital of Brazil is Brasília, known for its modernist architecture and urban planning.
+
+u:(tell me a fun fact about space) In space, there's a place called the "Roche Limit" where tidal forces from a celestial body can break apart a smaller object, like a moon or asteroid, if it gets too close.
+
+u:(how does a refrigerator work) Refrigerators work by removing heat from the interior and expelling it outside, creating a cool environment inside. This process involves the circulation of refrigerant gases.
+
+u:(tell me an inspirational quote) Here's one by Mahatma Gandhi: "Be the change that you wish to see in the world."
+
+u:(what's the population of India) India is one of the most populous countries in the world, with a population of over 1.3 billion people.
+
+u:(tell me a ghost story) On a moonlit night, a group of friends decided to camp in a remote forest known for eerie legends. As the night grew darker, strange things began to happen...
+
+u:(tell me about famous actors) One of the most famous actors in Hollywood is Meryl Streep, known for her exceptional talent and numerous awards.
